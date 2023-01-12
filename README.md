@@ -3,3 +3,4 @@ Well, automating data cleaning is easier said than done, since the required step
 
 ## Code and resource used 
 sing multivariable logistic regression, I created 4 models to determine the likelihood for churn by MOOC students, a group known for their
+![](https://github.com/enash88/enash88.github.io/blob/main/images/csdid%20invent.jpg)
